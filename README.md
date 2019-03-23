@@ -27,3 +27,5 @@ Elixir 1.8.1 (compiled with Erlang/OTP 21)
 ## ISSUES
 
 * [Error When Starting IEX in Ecto Lessons](https://github.com/elixirschool/elixirschool/issues/1755).
+* [Ecto lesson on changesets could use the Example.Person module instead of the User module ](https://github.com/elixirschool/elixirschool/issues/1756).
+* [Possible typo in functions arity on lesson about Ecto Changeset Custom Validators](https://github.com/elixirschool/elixirschool/issues/1757).
